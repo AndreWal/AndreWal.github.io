@@ -1,6 +1,6 @@
 ---
 title: "Swiss Cantonal Governments 1848-2017"
-author: "Andre Walter"
+author: "André Walter"
 date: 2017-09-21
 tags: ["Swiss Politics", "History","Data"]
 categories:
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-I'm currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura).
+I'm currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura in 1978).
 
 Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl. AI & JU), i.e. whether a new party got a seat in government or a party was voted out of office. The increase in volatility in the first half of the 20th century can be largely attributed to the Social Democrats and the introduction of Proportional Representation for parliamentry elections (which also affected the composition of government despite the direct election of government; Fribourg came last in 1921). However, the increase in 70s seems more pronounce. Smoothing appears to be a bit misleading, the "real" takeoff is only in the 90s. 
 
