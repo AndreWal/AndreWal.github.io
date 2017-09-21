@@ -19,7 +19,7 @@ Below, you can find the first exploratory results. The first plot displays the s
 
 ![](/img/govol.png)
 
-Who lost over time? As the next plot for all cantons shows, timing and pace might differ but, unsurprisingly, the radicals and the catholic conservatives are the main losers. In contrast, the Social Democrats largely stagnated with an average seat share of about 20%. The Swiss Peoples Party is also gaining more and more seats in cantonal governments but at an extrem slow pace. 
+Who lost over time? As the next plot for all cantons shows, timing and pace might differ but, unsurprisingly, the radicals and the catholic conservatives are the main losers. In contrast, the Social Democrats largely stagnated with an average seat share of about 20% since the 70s. The Swiss Peoples Party has been also gaining more and more seats in cantonal governments throughout the 20th century but at an extrem slow pace. 
 
 ![](/img/partysh.png)
 
