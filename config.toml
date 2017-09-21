@@ -1,0 +1,46 @@
+baseurl = "/"
+publishDir = "AndreWal.github.io/public"
+languageCode = "en-us"
+title = "Andre Walter"
+theme = "hugo-xmag"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+hasCJKLanguage = true
+enableEmoji = true
+paginate = 6
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 3
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    summary_length = 300
+    
+    footer = "Andre Walter | [ResearchGate](https://www.researchgate.net/profile/Andre_Walter2) | [Google Scholar](https://scholar.google.ch/citations?user=x1V1qZYAAAAJ&hl=de&oi=ao)"
+
+[params.text]
+    back = "&larr; Back to Home"
+    truncated = "&hellip;"
