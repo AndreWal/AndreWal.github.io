@@ -13,8 +13,8 @@
   </url>
   
   <url>
-    <loc>/post/2017/09/13/swiss-cantonal-governments-1848-2017/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>/post/2017/02/14/a-plain-markdown-post/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,13 +38,13 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -61,8 +61,32 @@
   </url>
   
   <url>
-    <loc>/tags/history/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>/categories/example/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mathjax/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pandoc/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,9 +103,13 @@
   </url>
   
   <url>
-    <loc>/tags/swiss-politics/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/1/01/01/swiss-cantonal-governments-1848-2017/</loc>
   </url>
   
   <url>

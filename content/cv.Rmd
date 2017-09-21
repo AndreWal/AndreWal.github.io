@@ -1,0 +1,74 @@
+---
+title: "CV"
+date: 2017
+---
+<div>
+<h2>
+<span>Academic Employment</span>
+</h2>
+</div>  
+ 
+- 2012-- Research Assistant, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.
+- 2011--2012 Teaching Assistant, Gender Studies, University of Zurich, Switzerland.
+- 2009--2010 Student and Teaching Assistant, Institute of Sociology, University of Jena, Germany.
+
+<div>
+<h2>
+<span>Education</span>
+</h2>
+</div>  
+
+- 2017 PhD, Political Science, University of St. Gallen, Switzerland  
+- 2012 MA, Sociology, Social-/Cultural Anthropology, and Gender Studies, University of Zurich, Switzerland 
+- 2010 BA, Sociology and Political Science, University of Jena, Germany
+
+<div>
+<h2>
+<span>Additional Training</span>
+</h2>
+</div> 
+
+2017
+
+- Machine Learning with R, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Brett Lantz
+- Bayesian Data Analysis, Summer School in Empirical Research Methods,St. Gallen, Switzerland; Instructor: Michael Kalish
+
+2016
+
+- GIS for Armed Conflict Research, St. Gallen, Switzerland; Instructor: Jan Ketil Rod
+- Spatial Analysis for the Social Sciences, St. Gallen, Switzerland; Instructor: Michael D. Ward
+
+2015
+
+- Categorical Data Analysis, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Shawna Smith
+- Maximum Likelihood Methods, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Christopher Zorn
+- Computational Statistics, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Francesco Audrino.
+- Panel Data Analysis, ECPR Winter School in Methods and Techniques, Bamberg, Germany; Instructor: Christian Assmann
+
+2014
+
+- Regression II+III, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Brain M. Pollins
+
+2013 
+
+- Process Tracing Methodology I+II, ECPR Summer School in Methods and Techniques, Ljubljana, Slovenia; Instructor: Derek Beach, Rasmus Brun Pedersen
+- Case Study Research Methods, University of St. Gallen, Switzerland; Instructor: Andrew Bennett
+
+<div>
+<h2>
+<span>Software</span>
+</h2>
+</div> 
+
+
+Reports 
+
+- LaTeX, Word, Power Point, Excel
+
+Statistics 
+
+- R, Stata (Julia, SPSS)
+
+GIS Data 
+
+- QGIS, ARCGIS
