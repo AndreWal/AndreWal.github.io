@@ -1,5 +1,5 @@
 baseurl = "/"
-publishDir = "AndreWal.github.io/public"
+publishDir = "public"
 languageCode = "en-us"
 title = "Andre Walter"
 theme = "hugo-xmag"

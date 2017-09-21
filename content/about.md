@@ -1,5 +1,6 @@
 ---
 title: About 
+date: 2017-09-21
 ---
 I'm a research assistant at the [Department of Political Science, University of St. Gallen](https://www.unisg.ch/en/universitaet/schools/economics-and-political-science/ueber-seps/politikwissenschaftliches-departement). My areas of interest are comparative political economy, comparative politics and statistical methods.
 
