@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Andre Walter</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Andre Walter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimation of Long Run Effects in R</title>
+      <link>/post/2017/09/13/estimation-of-long-run-effects-in-r/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/09/13/estimation-of-long-run-effects-in-r/</guid>
+      <description>A lot of quantitative data in political science comes in the form of “Time-Series Cross-Sectional” (TSCS) datasets. Such datasets usually consist of a low number of cross-sectional units (e.g. states, countries) and higher number of time periods. Since the introduction of panel-corrected standard errors in political science in 1995 by Beck and Katz, political science scholars have discussed the merits and pitfalls of TSCS data. One controversial aspect is the inclusion of lagged dependent variables (LDVs) in estimation equations.</description>
+    </item>
+    
+    <item>
+      <title>Swiss Cantonal Governments 1848-2017</title>
+      <link>/post/2017/09/13/swiss-cantonal-governments-1848-2017/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/09/13/swiss-cantonal-governments-1848-2017/</guid>
+      <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura).
+Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
+    </item>
+    
+  </channel>
+</rss>
