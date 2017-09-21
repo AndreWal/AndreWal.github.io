@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comparative Politics on Andre Walter</title>
+    <link>/categories/comparative-politics/</link>
+    <description>Recent content in Comparative Politics on Andre Walter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/comparative-politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swiss Cantonal Governments 1848-2017</title>
+      <link>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</guid>
+      <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura).
+Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
+    </item>
+    
+  </channel>
+</rss>

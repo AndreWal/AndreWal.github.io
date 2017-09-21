@@ -3,6 +3,9 @@ title: "Estimation of Long Run Effects in R"
 author: "Andre Walter"
 date: 2017-09-13
 tags: ["ADL", "Dynamic Panels","R","Econometrics"]
+categories:
+  - Statistics
+  - R
 ---
 
 ```{r setup, include=FALSE}
