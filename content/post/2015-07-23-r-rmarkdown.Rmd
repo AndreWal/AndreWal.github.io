@@ -42,7 +42,7 @@ In our example, it's
 
 $$5.42=\frac{.65}{1-.88}$$
 
-The point estimate shows that an one percent increase in police p.c. is associated with an 5.4 percent increase in crime rates - a larger change than the short run effect! However, the uncertainty of our point estimate is still missing.
+The point estimate shows that an one percent increase in police p.c. is associated with an 5.4 percent increase in crime rates - considerably larger than the short run effect in our regression table above! However, the uncertainty of our point estimate is still missing.
 
 There are two ways to deal with this problem. First, we can use instrumental variable (IV) estimation to obtain the standard errors ([Bewley 1979](http://www.sciencedirect.com/science/article/pii/0165176579900119)). Second, we can use the [delta method](https://cran.r-project.org/web/packages/modmarg/vignettes/delta-method.html) ([Papke and Woodridge 2005](http://www.sciencedirect.com/science/article/pii/S0165176504003143)).
 
@@ -55,7 +55,7 @@ $$\Delta y_{i,t}=\alpha_{i,t}+\gamma*y_{i,t-1}+\epsilon_{i,t}$$
 In the second stage, we use then:
 
 
-$$y_{i,t} = \alpha_{i,t}+\gamma*\Delta y_{i,t-1}+\beta*polpc_{i,t}+\epsilon_{i,t}$$
+$$y_{i,t} = \alpha_{i,t}+\gamma*\Delta y_{i,t}+\beta*polpc_{i,t}+\epsilon_{i,t}$$
 
 So, in R the long run effects can be estimated with IV estimation as follows: First, we use the dplyr package to generate our differenced values for crime rates. Then we estimate the long run effects with the plm function: 
 
