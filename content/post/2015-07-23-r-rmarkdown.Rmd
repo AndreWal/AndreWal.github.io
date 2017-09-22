@@ -78,4 +78,4 @@ dfitlr <- deltaMethod(fit,"polpc/(1-lagcrm)")
 dfitlr
 
 ```
-The delta method delivers the same result. Using the delta method requires less coding. However, presenting the results via regression tables or coefficient plots (with the full model) is less tedious with IV estimation.
+The delta method delivers the same result. Using the delta method requires less coding. However, presenting the results of the full model via regression tables or coefficient plots is less tedious with IV estimation.
