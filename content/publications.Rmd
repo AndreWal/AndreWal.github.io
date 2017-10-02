@@ -11,6 +11,7 @@ date: 2017-09-21
 
 - A Race to the Top. The Politics of Interstate Cost Distribution and Welfare State Expansion
 - A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger)
+- Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion
 
 <div>
 <h2>
@@ -19,7 +20,6 @@ date: 2017-09-21
 </div> 
 
 - Internal Migration and the Expansion of Health Insurance Coverage [Working Title]
-- Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion
 - Majority Protection: The Adoption of Proportional Representation in the Swiss Cantons (with Patrick Emmenegger)
 - A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
 - An extended Dataset for the Executive and Legislative Composition of the Swiss Cantons in the 19th and 20th Century [Working Title] (with Patrick Emmenegger)
