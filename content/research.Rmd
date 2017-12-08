@@ -11,7 +11,7 @@ In a project with [Patrick Emmenegger](https://pemmenegger.com) and [Lucas Leema
 
 # Electoral Systems Choice and Political Competition
 
-In the ongoing project, I work on the introduction of proportional representation, multiparty competition in single and multimember district majoritarian electoral systems, the effects of electoral systems on turnout and political competition, and the formation and electoral strategies of parties. The focus of the project is currently on Switzerland but I'm in the process of collecting data for other European countries in the 19th and early 20th century. The first paper, jointly written with [Patrick Emmenegger](https://pemmenegger.com), is under review, others will follow soon.
+In the ongoing project, I work on the introduction of proportional representation, multiparty competition in single and multimember district majoritarian electoral systems, the effects of electoral systems on turnout and political competition, and the formation and electoral strategies of parties. The focus of the project is currently on Switzerland and the Swiss cantons but I'm in the process of collecting data for other European countries in the 19th and early 20th century. The first paper, jointly written with [Patrick Emmenegger](https://pemmenegger.com), is under review, others will follow soon.
 
 # Federalism, Direct Democracy and Welfare State Expansion
 

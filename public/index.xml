@@ -12,13 +12,43 @@
     
     
     <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Academic Employment2017– Postdoctoral Researcher, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.2012–2017 Research Assistant, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.2011–2012 Teaching Assistant, Gender Studies, University of Zurich, Switzerland.2009–2010 Student and Teaching Assistant, Institute of Sociology, University of Jena, Germany.Education2017 PhD, Political Science, University of St.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Published (*peer-reviewed)(*)Measuring the Impacts of Colonialism: A New Data Set for the Countries of Africa and Asia. Journal of World-Systems Research, 23(1), 2017, 156-190 (with Patrick Ziltener and Daniel Kuenzler)Other Publications (*peer-reviewed)(*)Europäische Integration auf Unternehmensebene: Die Schweizer Beteiligung an Europäischen Betriebsräten (EBR). Swiss Journal of Sociology, 42(1), 2016, p. 159–174 (with Patrick Ziltener and Heinz Gabathuler)(*)QCA, the Truth Table Analysis and Large-N Survey Data: The Benefits of Calibration and the Importance of Robustness Tests.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>2018
+The Politics of Electoral Systems: Political Conflict and Representation, Seminar for MA Students, University of St. Gallen (Spring Term)2017
+Causal Arguments and Analysis: Guest lecture invited by Prof. Patrick Emmenegger, University of St. Gallen (Spring Term)2013-2016 (Teaching Assistant at the University of St. Gallen, Switzerland)
+Qualitative Methods (Prof. James Davis/Prof. Klaus Dingwerth)Quantitative Methods (Prof. Daniele Caramani/Prof. Oliver Westerwinter)Research Design (Prof. Patrick Emmenegger)QCA (Prof.</description>
+    </item>
+    
+    <item>
       <title>HSG International Fellowship</title>
       <link>/post/2017/12/07/hsg-international-fellowship/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/2017/12/07/hsg-international-fellowship/</guid>
       <description>I’ve got news that I have been awared with the International Postdoctoral Fellowship! This great opportunity allows me to conduct independent research for up to three years on a number of topics of my choosing at the University of St. Gallen. I planning to focus on two projects:
-The introduction of proportional representation I haven written a piece with Patrick Emmenegger on the introduction of PR for the election of the Swiss National Council (currently under review).</description>
+The introduction of proportional representationI haven written a piece with Patrick Emmenegger on the introduction of PR for the election of the Swiss National Council (currently under review).</description>
     </item>
     
     <item>
@@ -46,26 +76,7 @@ The Evolution of TaxationIn a project with Patrick Emmenegger and Lucas Leemann
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I&amp;rsquo;m a research assistant at the Department of Political Science, University of St. Gallen. My areas of interest are comparative political economy, comparative politics and statistical methods. More specifically, I&amp;rsquo;m interested in the formation and development of parties and electoral institutions as well as social and economic policies in the 19th and early 20th century. In addition, I focus on current topics on comparative political economy. Methodological, I&amp;rsquo;m interested in Econometrics, GIS and statistical programming in R.</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>/cv/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/</guid>
-      <description>Academic Employment2012– Research Assistant, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.2011–2012 Teaching Assistant, Gender Studies, University of Zurich, Switzerland.2009–2010 Student and Teaching Assistant, Institute of Sociology, University of Jena, Germany.Education2017 PhD, Political Science, University of St. Gallen, Switzerland
-2012 MA, Sociology, Social-/Cultural Anthropology, and Gender Studies, University of Zurich, Switzerland2010 BA, Sociology and Political Science, University of Jena, GermanyAdditional Training2017</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>Unter ReviewA Race to the Top. The Politics of Interstate Cost Distribution and Welfare State ExpansionA Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger)Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State ExpansionWorking PapersInternal Migration and the Expansion of Health Insurance Coverage [Working Title]Majority Protection: The Adoption of Proportional Representation in the Swiss Cantons (with Patrick Emmenegger)A Socialist Threat?</description>
+      <description>I&amp;rsquo;m a postdoctoral researcher at the Department of Political Science, University of St. Gallen. My areas of interest are comparative political economy, comparative politics and statistical methods. More specifically, I&amp;rsquo;m interested in the formation and development of parties and electoral institutions as well as social and economic policies in the 19th and early 20th century. In addition, I focus on current topics on comparative political economy. Methodological, I&amp;rsquo;m interested in Econometrics, GIS and statistical programming in R.</description>
     </item>
     
     <item>
@@ -76,18 +87,6 @@ The Evolution of TaxationIn a project with Patrick Emmenegger and Lucas Leemann
       <guid>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</guid>
       <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura in 1978).
 Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>2018
-The Politics of Electoral Systems: Political Conflict and Representation, Seminar for MA Students, University of St. Gallen (Spring Term)2017
-Causal Arguments and Analysis: Guest lecture invited by Prof. Patrick Emmenegger, University of St. Gallen (Spring Term)2012-2016 (Teaching Assistant at the University of St. Gallen)
-Qualitative Methods (Prof. James Davis/Prof. Klaus Dingwerth)Quantitative Methods (Prof. Daniele Caramani/Prof. Oliver Westerwinter)Research Design (Prof. Patrick Emmenegger)QCA (Prof.</description>
     </item>
     
     <item>

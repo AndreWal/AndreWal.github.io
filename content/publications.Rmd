@@ -1,37 +1,8 @@
 ---
 title: Publications
-date: 2017-09-21
+date: 2017-12-08
 ---
 
-<div>
-<h2>
-<span>Unter Review</span>
-</h2>
-</div>  
-
-- A Race to the Top. The Politics of Interstate Cost Distribution and Welfare State Expansion
-- A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger)
-- Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion
-
-<div>
-<h2>
-<span>Working Papers</span>
-</h2>
-</div> 
-
-- Internal Migration and the Expansion of Health Insurance Coverage [Working Title]
-- Majority Protection: The Adoption of Proportional Representation in the Swiss Cantons (with Patrick Emmenegger)
-- A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
-- An extended Dataset for the Executive and Legislative Composition of the Swiss Cantons in the 19th and 20th Century [Working Title] (with Patrick Emmenegger)
-<div>
-<h2>
-<span>Work in Progress</span>
-</h2>
-</div> 
-
-- The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)
-- The Abolition of Feudal Taxation across Europe [Working Title]
-- Electoral Competition and the Mobilization of the Catholic Workers' Movement [Working Title]
 
 <div>
 <h2>
@@ -49,3 +20,36 @@ date: 2017-09-21
 
 - (*)[Europäische Integration auf Unternehmensebene: Die Schweizer Beteiligung an Europäischen Betriebsräten (EBR). Swiss Journal of Sociology, 42(1), 2016, p. 159–174 (with Patrick Ziltener and Heinz Gabathuler)](https://www.degruyter.com/view/j/sjs.2016.42.issue-1/sjs-2016-0008/sjs-2016-0008.xml)
 - (*)[QCA, the Truth Table Analysis and Large-N Survey Data: The Benefits of Calibration and the Importance of Robustness Tests. \textit{COMPASSS WP Series} 2014-79. (with Patrick Emmenegger and Dominik Schraff)](http://www.compasss.org/wpseries/EmmeneggerSchraffWalter2014.pdf)
+
+<div>
+<h2>
+<span>Unter Review</span>
+</h2>
+</div>  
+
+- A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion, R\&R
+- A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger)
+- Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion
+
+<div>
+<h2>
+<span>Working Papers</span>
+</h2>
+</div> 
+
+- Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)
+- Majority Protection: The Adoption of Proportional Representation in the Swiss Cantons (with Patrick Emmenegger)
+- A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
+
+<div>
+<h2>
+<span>Work in Progress</span>
+</h2>
+</div> 
+
+- The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
+-Income Tax, IndirectRevenue, and Political Institutions [Working Title] (with Patrick Emmenegger and Lucas Leemann)
+- The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)
+- The Abolition of Feudal Taxation across Europe [Working Title]
+- Wasted Votes? Electoral Competition, Vote Defection, and Strategic Third Party Entry in Single Member Districts
+
