@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>History on Andre Walter</title>
-    <link>/tags/history/</link>
-    <description>Recent content in History on Andre Walter</description>
+    <title>Comparative Politics on Andre Walter</title>
+    <link>/tags/comparative-politics/</link>
+    <description>Recent content in Comparative Politics on Andre Walter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/comparative-politics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/post/2017/12/07/hsg-international-fellowship/</guid>
       <description>I’ve got news that I have been awared with the International Postdoctoral Fellowship! This great opportunity allows me to conduct independent research for up to three years on a number of topics of my choosing at the University of St. Gallen. I planning to focus on two projects:
 The introduction of proportional representation I haven written a piece with Patrick Emmenegger on the introduction of PR for the election of the Swiss National Council (currently under review).</description>
-    </item>
-    
-    <item>
-      <title>Swiss Cantonal Governments 1848-2017</title>
-      <link>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</guid>
-      <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura in 1978).
-Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
     </item>
     
   </channel>
