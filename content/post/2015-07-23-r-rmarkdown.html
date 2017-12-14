@@ -15,6 +15,7 @@ categories:
 <p>To illustrate how it’s done, I employ the Crime data from the plm package to estimate an autoregressive distributed lag model (Partial Adjustment). To do so, I use the DataCombine package to create a lagged dependent variable and the plm package for estimation. Crime is a data set with information on crime rates in North Carolina (1981-1987) and a few predictors. I use crime rates as dependent variable and the lag of crime rates as well as the number of police per capita (The lag is created by using the dplyr package). Our equation looks as follows:</p>
 <p><span class="math display">\[y_{i,t} = \alpha_{i,t}+\gamma*y_{i,t-1}+\beta*polpc_{i,t}+\epsilon_{i,t}\]</span></p>
 <pre class="r"><code>library(plm)
+## Warning: Paket &#39;plm&#39; wurde unter R Version 3.4.3 erstellt
 ## Lade nötiges Paket: Formula
 library(dplyr)
 ## 
@@ -40,13 +41,13 @@ summary(fit)
 ## plm(formula = crmrte ~ lagcrm + polpc, data = Crime, model = &quot;pooling&quot;, 
 ##     index = c(&quot;county&quot;, &quot;year&quot;))
 ## 
-## Balanced Panel: n=90, T=6, N=540
+## Balanced Panel: n = 90, T = 6, N = 540
 ## 
-## Residuals :
+## Residuals:
 ##        Min.     1st Qu.      Median     3rd Qu.        Max. 
 ## -0.11619183 -0.00286589 -0.00014689  0.00246334  0.08861558 
 ## 
-## Coefficients :
+## Coefficients:
 ##              Estimate Std. Error t-value  Pr(&gt;|t|)    
 ## (Intercept) 0.0026026  0.0007610   3.420 0.0006739 ***
 ## lagcrm      0.8803019  0.0207283  42.468 &lt; 2.2e-16 ***
@@ -85,13 +86,13 @@ summary(fitlr)
 ## plm(formula = crmrte ~ diff + polpc | lagcrm + polpc, data = Crime, 
 ##     model = &quot;pooling&quot;, index = c(&quot;county&quot;, &quot;year&quot;))
 ## 
-## Balanced Panel: n=90, T=6, N=540
+## Balanced Panel: n = 90, T = 6, N = 540
 ## 
-## Residuals :
+## Residuals:
 ##       Min.    1st Qu.     Median    3rd Qu.       Max. 
 ## -0.9707071 -0.0239426 -0.0012271  0.0205796  0.7403255 
 ## 
-## Coefficients :
+## Coefficients:
 ##               Estimate Std. Error t-value  Pr(&gt;|t|)    
 ## (Intercept)  0.0217432  0.0039771  5.4671 7.016e-08 ***
 ## diff        -7.3543489  1.4467371 -5.0834 5.128e-07 ***
@@ -107,6 +108,7 @@ summary(fitlr)
 <p>The point estimate for polpc is appro. 5.43. The result comes close to want we’ve calculated by hand. In addition, we’ve obtained the standard error for the estimate.</p>
 <p>In order to get the same result using the delta method, we have to work with the car package.</p>
 <pre class="r"><code>library(car)
+## Warning: Paket &#39;car&#39; wurde unter R Version 3.4.3 erstellt
 ## 
 ## Attache Paket: &#39;car&#39;
 ## The following object is masked from &#39;package:dplyr&#39;:
