@@ -38,7 +38,7 @@ date: 2017-12-08
 </div> 
 
 - Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)
-- Majority Protection: The Adoption of Proportional Representation in the Swiss Cantons (with Patrick Emmenegger)
+- Majority Protection: The Origins of Distorted Proportional Representation (with Patrick Emmenegger)
 - A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
 
 <div>
@@ -48,9 +48,10 @@ date: 2017-12-08
 </div> 
 
 - The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
-- Initiating Welfare Competition. How the Freedom of Movement for the Poor was introduced
+- Initiating Welfare Competition. How the Freedom of Movement for the Poor was introduced (with Cecilia Bruzelius)
 - Income Tax, Indirect Revenue, and Political Institutions [Working Title] (with Patrick Emmenegger and Lucas Leemann)
 - The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)
 - The Abolition of Feudal Taxation across Europe [Working Title]
 - Wasted Votes? Electoral Competition, Vote Defection, and Strategic Third Party Entry in Single Member Districts
+- Authorian Welfare States. Why the German Reich Adopted Social Insurance
 
