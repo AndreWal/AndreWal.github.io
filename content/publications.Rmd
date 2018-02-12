@@ -10,6 +10,7 @@ date: 2017-12-08
 </h2>
 </div> 
 
+- (*)A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion. The Journal of Politics, conditional accept
 - (*)[Measuring the Impacts of Colonialism: A New Data Set for the Countries of Africa and Asia. Journal of World-Systems Research, 23(1), 2017, 156-190 (with Patrick Ziltener and Daniel Kuenzler)](http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/683/937)
 
 <div>
@@ -27,7 +28,6 @@ date: 2017-12-08
 </h2>
 </div>  
 
-- A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion, R\&R
 - A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger), R\&R
 - Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion, under review
 
