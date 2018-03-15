@@ -30,6 +30,7 @@ date: 2017-12-08
 
 - A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger), R\&R
 - Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion, under review
+- Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)
 
 <div>
 <h2>
@@ -37,9 +38,9 @@ date: 2017-12-08
 </h2>
 </div> 
 
-- Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)
 - Majority Protection: The Origins of Distorted Proportional Representation (with Patrick Emmenegger)
 - A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
+- The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
 
 <div>
 <h2>
@@ -47,11 +48,12 @@ date: 2017-12-08
 </h2>
 </div> 
 
-- The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
+- The Introduction of PR in Belgium (with Patrick Emmenegger)
 - Initiating Welfare Competition. How the Freedom of Movement for the Poor was introduced (with Cecilia Bruzelius)
 - Income Tax, Indirect Revenue, and Political Institutions [Working Title] (with Patrick Emmenegger and Lucas Leemann)
 - The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)
 - The Abolition of Feudal Taxation across Europe [Working Title]
 - Wasted Votes? Electoral Competition, Vote Defection, and Strategic Third Party Entry in Single Member Districts
-- Authoritarian Welfare States. Why the German Reich Adopted Social Insurance
+- The Black Coalition. Why the German Reich Adopted Social Insurance
+- The Origins of Pre-Modern States in World History
 
