@@ -86,6 +86,7 @@ library(dplyr)
 data(Crime)
 
 Crime &lt;- Crime %&gt;% group_by(county) %&gt;% mutate(lagcrm=lag(crmrte, na.rm =TRUE))
+## Warning: Paket &#39;bindrcpp&#39; wurde unter R Version 3.4.4 erstellt
 
 fit &lt;- plm(crmrte ~ lagcrm+polpc, data = Crime, index = c(&quot;county&quot;,&quot;year&quot;), model = &quot;pooling&quot;)
 summary(fit)
