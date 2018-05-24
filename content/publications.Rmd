@@ -10,7 +10,7 @@ date: 2017-12-08
 </h2>
 </div> 
 
-- (*)A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion. The Journal of Politics, conditional accept
+- (*)A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion. The Journal of Politics, forthcoming
 - (*)[Measuring the Impacts of Colonialism: A New Data Set for the Countries of Africa and Asia. Journal of World-Systems Research, 23(1), 2017, 156-190 (with Patrick Ziltener and Daniel Kuenzler)](http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/683/937)
 
 <div>
@@ -40,8 +40,8 @@ date: 2017-12-08
 </div> 
 
 
-- A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
-- The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
+- A Socialist Threat? Radical Party Entry and the Formation of Electoral Alliances in Majoritarian Systems 
+- The Social Origins of Christian Democracy. Rural-Urban Migration and the Rise of the Catholic Workers’ Movement
 - Interest Mediation or Front Line? Socialist Electoral Mobilization and the Growth of the Catholic Workers’ Movement
 - Income Tax, Indirect Revenue, and Political Institutions (with Patrick Emmenegger and Lucas Leemann)
 
