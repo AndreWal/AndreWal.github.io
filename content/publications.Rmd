@@ -20,7 +20,7 @@ date: 2017-12-08
 </div> 
 
 - (*)[Europäische Integration auf Unternehmensebene: Die Schweizer Beteiligung an Europäischen Betriebsräten (EBR). Swiss Journal of Sociology, 42(1), 2016, p. 159–174 (with Patrick Ziltener and Heinz Gabathuler)](https://www.degruyter.com/view/j/sjs.2016.42.issue-1/sjs-2016-0008/sjs-2016-0008.xml)
-- (*)[QCA, the Truth Table Analysis and Large-N Survey Data: The Benefits of Calibration and the Importance of Robustness Tests. \textit{COMPASSS WP Series} 2014-79. (with Patrick Emmenegger and Dominik Schraff)](http://www.compasss.org/wpseries/EmmeneggerSchraffWalter2014.pdf)
+- (*)[QCA, the Truth Table Analysis and Large-N Survey Data: The Benefits of Calibration and the Importance of Robustness Tests. \textit{COMPASSS Working Paper Series} 2014-79. (with Patrick Emmenegger and Dominik Schraff)](http://www.compasss.org/wpseries/EmmeneggerSchraffWalter2014.pdf)
 
 <div>
 <h2>
@@ -31,6 +31,7 @@ date: 2017-12-08
 - A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger), R\&R
 - Taking the Initiative! Direct Democracy, Coalition Governments and Welfare State Expansion, under review
 - Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)
+- Majority Protection: The Origins of Distorted Proportional Representation (with Patrick Emmenegger)
 
 <div>
 <h2>
@@ -38,9 +39,11 @@ date: 2017-12-08
 </h2>
 </div> 
 
-- Majority Protection: The Origins of Distorted Proportional Representation (with Patrick Emmenegger)
+
 - A Socialist Threat? Interparty Coordination and the Electoral Success of Social Democratic Candidates under Majoritarian Rule 
 - The Social Origins of Christian Democracy. Rural-Urban Migration, the Socialist Threat, and the Rise of the Catholic Workers’ Movement
+- Interest Mediation or Front Line? Socialist Electoral Mobilization and the Growth of the Catholic Workers’ Movement
+- Income Tax, Indirect Revenue, and Political Institutions (with Patrick Emmenegger and Lucas Leemann)
 
 <div>
 <h2>
@@ -48,12 +51,15 @@ date: 2017-12-08
 </h2>
 </div> 
 
-- The Introduction of PR in Belgium (with Patrick Emmenegger)
+- When Dominant Parties Adopt PR. The Mysterious Case of Belgium (with Patrick Emmenegger)
 - Initiating Welfare Competition. How the Freedom of Movement for the Poor was introduced (with Cecilia Bruzelius)
-- Income Tax, Indirect Revenue, and Political Institutions [Working Title] (with Patrick Emmenegger and Lucas Leemann)
 - The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)
+- How Socialism Changed Politics. Large-Scale Evidence from District Competition and Parliamentary Debates in Imperial Germany using Quantitative Text Analysis
+- Electoral System Change, Political Competition and Targeted Elite Mobilization
+- Persisting Inequality. The Structure of the World Income Distribution 1975-2016 (with Patrick Ziltener)
+- The Origins of Pre-Modern States in World History. Dependency and the Agricultural Transition
 - The Abolition of Feudal Taxation across Europe [Working Title]
 - Wasted Votes? Electoral Competition, Vote Defection, and Strategic Third Party Entry in Single Member Districts
 - The Black Coalition. Why the German Reich Adopted Social Insurance
-- The Origins of Pre-Modern States in World History
+
 
