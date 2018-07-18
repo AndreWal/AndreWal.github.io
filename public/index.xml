@@ -1,112 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Political Science, History, and Statistics on Andre Walter</title>
+    <title>André Walter on André Walter</title>
     <link>/</link>
-    <description>Recent content in Political Science, History, and Statistics on Andre Walter</description>
+    <description>Recent content in André Walter on André Walter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Talks 2018</title>
-      <link>/post/2018/04/17/talks-2018/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/publication/jop_2019/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0200</pubDate>
       
-      <guid>/post/2018/04/17/talks-2018/</guid>
-      <description>There are a couple of upcoming talks and conferences in 2018 where I’ll present some of my ongoing work. I’m going to cover the following topics at the ECPR im Hamburg, the DVPW in Frankfurt a.M., the ESPAnet in Vilnius and the Political Science Department Seminar in Tübingen:
-A Socialist Threat? Radical Party Entry, Electoral Competition, and the Formation of Alliances in Majoritarian Systems (Tübingen; ECPR; DVPW)
-The Social Origins of Christian Democracy.</description>
+      <guid>/publication/jop_2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>CV</title>
-      <link>/cv/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/publication/joesp_2018/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/cv/</guid>
-      <description>Academic Employment2018– Postdoctoral Researcher, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.2012–2018 Research Assistant, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.2011–2012 Teaching Assistant, Gender Studies, University of Zurich, Switzerland.2009–2010 Student and Teaching Assistant, Institute of Sociology, University of Jena, Germany.Education2018 PhD, Political Science, University of St.</description>
+      <guid>/publication/joesp_2018/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <title>New Publication Forthcoming in JoESP</title>
+      <link>/post/new-publ_may_2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publications/</guid>
-      <description>Published (*peer-reviewed)(*)A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion. The Journal of Politics, forthcoming(*)Taking the Initiative! Direct Democracy, Coalition Governments, and Welfare State Expansion, Journal of European Social Policy., forthcoming(*)Measuring the Impacts of Colonialism: A New Data Set for the Countries of Africa and Asia. Journal of World-Systems Research, 23(1), 2017, 156-190 (with Patrick Ziltener and Daniel Kuenzler)Other Publications (*peer-reviewed)(*)Europäische Integration auf Unternehmensebene: Die Schweizer Beteiligung an Europäischen Betriebsräten (EBR).</description>
+      <guid>/post/new-publ_may_2018/</guid>
+      <description>&lt;p&gt;My article, &amp;ldquo;Taking the Initiative. Direct Democracy, Coalition Governments, and Welfare State
+Expansion&amp;rdquo;, has been accepted at the Journal of Eruopean Social Policy. Below is the abstract:&lt;/p&gt;
+
+&lt;p&gt;Direct democratic rights are increasingly adopted around the world. However,
+what are the consequences of the introduction of initiative and referendum rights
+for welfare state development? The existing literature holds a pessimistic view
+on the role of direct democracy for welfare state development and generosity.
+Whereas referendums are argued to constitute a major road block to the extension
+of social expenditure, the link between initiatives and social security provision is
+unclear. I contribute to the existing literature by arguing that the effect of direct
+democratic instruments on welfare state extension is systematically related to
+the political environment. More precisely, I contend that governments with few
+parties deviate from the median voter preference by providing insufficient social
+expenditure whereas the opposite is true in settings with many governing parties.
+In both cases, voters employ direct legislation to correct for the spending behavior
+of governments. Using time-series cross-sectional data on social expenditure in the
+Swiss cantons from 1930 to 2000, I show that initiatives and referendums constrain
+social expenditure growth in settings with many governing parties but expand it
+when few parties are in government.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <title>New Publication Forthcoming in JoP</title>
+      <link>/post/new-publ_july_2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/teaching/</guid>
-      <description>2019
-Introduction to Quantitative Methods, Lecture for BA Students, University of St. Gallen (Spring Term)2018
-State and Economy (Multiple Guest Lectures, invited by Prof. Patrick Emmenegger), Lecture for MA Students, University of St. Gallen (Autumn Term)The Politics of Electoral Systems: Political Conflict and Representation, Seminar for MA Students, University of St. Gallen (Spring Term)2017
-Causal Arguments and Analysis: Guest lecture invited by Prof.</description>
+      <guid>/post/new-publ_july_2018/</guid>
+      <description>&lt;p&gt;Another article, &amp;ldquo;A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State
+Expansion&amp;rdquo;, has been accepted at the Journal of Politics. Below is the abstract:&lt;/p&gt;
+
+&lt;p&gt;Previous research on welfare state development in federal states has
+claimed that interstate competition induces a race to the bottom with regard
+to social expenditure. While existing research has focused on the
+impact of migration inflows of poor households on states with high provision
+of social expenditure, it has remained silent with regard to migration
+outflows. In this paper, I argue that migration outflows are associated with
+increased social expenditure if eligibility restrictions for social benefits between
+states are relaxed. Facing outflows of workers and the unemployed,
+low-spending states respond with increases in social expenditure to retain
+a sufficient work force and counteract rising wage levels. As a result,
+states with higher levels of outward migration are catching up with more
+generous states instead of engaging in a race to the bottom. To support my
+claim, I use a time-series cross-section dataset of Swiss cantons covering
+the period 1930-1975.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>HSG International Fellowship</title>
-      <link>/post/2017/12/07/hsg-international-fellowship/</link>
-      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/agri/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2017/12/07/hsg-international-fellowship/</guid>
-      <description>I’ve got news that I have been awared with the International Postdoctoral Fellowship! This great opportunity allows me to conduct independent research for up to three years on a number of topics of my choosing at the University of St. Gallen. I planning to focus on two projects:
-The introduction of proportional representationI haven written a piece with Patrick Emmenegger on the introduction of PR for the election of the Swiss National Council (currently under review).</description>
+      <guid>/working_papers/agri/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/cath_mig/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/contact/</guid>
-      <description>André WalterDepartment of Political ScienceUniversity of St. GallenMüller-Friedberg-Strasse 6/89000 St. GallenSwitzerlandeMail: andre[dot]walter[at]unisg[dot]ch</description>
+      <guid>/working_papers/cath_mig/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/cath_soc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/research/</guid>
-      <description>Research InterestsI’m interested in a comparative politics, comparative political economy and social science methodology. More precisely, my main research interests are:
-Population movements, inter-jurisdictional cooperation/competition and social spending. In particular, I’m interested in how eligibility restrictions affect social spending provision of jurisdictions and why such restrictions are introduced/abolished.The formation of political parties and how they affect the behavior of established political parties.The transformation of political systems with focus on electoral systems and representative bodies.</description>
+      <guid>/working_papers/cath_soc/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/dir_tax/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/about/</guid>
-      <description>I&amp;rsquo;m a postdoctoral researcher at the Department of Political Science, University of St. Gallen. My areas of interest are comparative political economy, comparative politics and statistical methods. More specifically, I&amp;rsquo;m interested in the formation and development of parties and electoral institutions as well as social and economic policies in the 19th and 20th century. In addition, I focus on current topics on comparative political economy. My work has been published in the Journal of Politics, the Journal of European Social Policy and the Journal of World-Systems Research.</description>
+      <guid>/working_papers/dir_tax/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Swiss Cantonal Governments 1848-2017</title>
-      <link>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/dis_pr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</guid>
-      <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura in 1978).
-Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
+      <guid>/working_papers/dis_pr/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Estimation of Long Run Effects in R</title>
-      <link>/post/2017/09/13/estimation-of-long-run-effects-in-r/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/working_papers/gov_can/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2017/09/13/estimation-of-long-run-effects-in-r/</guid>
-      <description>A lot of quantitative data in political science comes in the form of “Time-Series Cross-Sectional” (TSCS) datasets. Such datasets usually consist of a low number of cross-sectional units (e.g. states, countries) and higher number of time periods. Since the introduction of panel-corrected standard errors in political science in 1995 by Beck and Katz, political science scholars have discussed the merits and pitfalls of TSCS data. One controversial aspect is the inclusion of lagged dependent variables (LDVs) in estimation equations.</description>
+      <guid>/working_papers/gov_can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/working_papers/maj_pro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/working_papers/maj_pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/working_papers/pr_belgium/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/working_papers/pr_belgium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/working_papers/soc_threat/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/working_papers/soc_threat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/wsr_2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/wsr_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/compasss_2014/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/compasss_2014/</guid>
+      <description></description>
     </item>
     
   </channel>

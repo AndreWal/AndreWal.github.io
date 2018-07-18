@@ -1,54 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Andre Walter</title>
+    <title>Posts on André Walter</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Andre Walter</description>
+    <description>Recent content in Posts on André Walter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Talks 2018</title>
-      <link>/post/2018/04/17/talks-2018/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <title>New Publication Forthcoming in JoESP</title>
+      <link>/post/new-publ_may_2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/post/2018/04/17/talks-2018/</guid>
-      <description>There are a couple of upcoming talks and conferences in 2018 where I’ll present some of my ongoing work. I’m going to cover the following topics at the ECPR im Hamburg, the DVPW in Frankfurt a.M., the ESPAnet in Vilnius and the Political Science Department Seminar in Tübingen:
-A Socialist Threat? Radical Party Entry, Electoral Competition, and the Formation of Alliances in Majoritarian Systems (Tübingen; ECPR; DVPW)
-The Social Origins of Christian Democracy.</description>
+      <guid>/post/new-publ_may_2018/</guid>
+      <description>My article, &amp;ldquo;Taking the Initiative. Direct Democracy, Coalition Governments, and Welfare State Expansion&amp;rdquo;, has been accepted at the Journal of Eruopean Social Policy. Below is the abstract:
+Direct democratic rights are increasingly adopted around the world. However, what are the consequences of the introduction of initiative and referendum rights for welfare state development? The existing literature holds a pessimistic view on the role of direct democracy for welfare state development and generosity.</description>
     </item>
     
     <item>
-      <title>HSG International Fellowship</title>
-      <link>/post/2017/12/07/hsg-international-fellowship/</link>
-      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <title>New Publication Forthcoming in JoP</title>
+      <link>/post/new-publ_july_2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/post/2017/12/07/hsg-international-fellowship/</guid>
-      <description>I’ve got news that I have been awared with the International Postdoctoral Fellowship! This great opportunity allows me to conduct independent research for up to three years on a number of topics of my choosing at the University of St. Gallen. I planning to focus on two projects:
-The introduction of proportional representationI haven written a piece with Patrick Emmenegger on the introduction of PR for the election of the Swiss National Council (currently under review).</description>
-    </item>
-    
-    <item>
-      <title>Swiss Cantonal Governments 1848-2017</title>
-      <link>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</guid>
-      <description>I’m currently working with Patrick Emmenegger on creating a database on the ideological composition of cantonal governments. We were able to compile a time series for most cantons starting in the mid 19th century. A complete Time-Series Cross-Section is available for all cantons for 1894 onwards (except Appenzell Inner-Rhodes which starts 1928 and, of course, Jura in 1978).
-Below, you can find the first exploratory results. The first plot displays the smoothed government volatility for 24 cantons (excl.</description>
-    </item>
-    
-    <item>
-      <title>Estimation of Long Run Effects in R</title>
-      <link>/post/2017/09/13/estimation-of-long-run-effects-in-r/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/09/13/estimation-of-long-run-effects-in-r/</guid>
-      <description>A lot of quantitative data in political science comes in the form of “Time-Series Cross-Sectional” (TSCS) datasets. Such datasets usually consist of a low number of cross-sectional units (e.g. states, countries) and higher number of time periods. Since the introduction of panel-corrected standard errors in political science in 1995 by Beck and Katz, political science scholars have discussed the merits and pitfalls of TSCS data. One controversial aspect is the inclusion of lagged dependent variables (LDVs) in estimation equations.</description>
+      <guid>/post/new-publ_july_2018/</guid>
+      <description>Another article, &amp;ldquo;A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion&amp;rdquo;, has been accepted at the Journal of Politics. Below is the abstract:
+Previous research on welfare state development in federal states has claimed that interstate competition induces a race to the bottom with regard to social expenditure. While existing research has focused on the impact of migration inflows of poor households on states with high provision of social expenditure, it has remained silent with regard to migration outflows.</description>
     </item>
     
   </channel>

@@ -1,85 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Andre Walter</title>
+    <title>Tags on André Walter</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Andre Walter</description>
+    <description>Recent content in Tags on André Walter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ADL</title>
-      <link>/tags/adl/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Coalition Governments</title>
+      <link>/tags/coalition-governments/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/adl/</guid>
+      <guid>/tags/coalition-governments/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Comparative Politics</title>
-      <link>/tags/comparative-politics/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Colonialism</title>
+      <link>/tags/colonialism/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       
-      <guid>/tags/comparative-politics/</guid>
+      <guid>/tags/colonialism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data</title>
-      <link>/tags/data/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Direct Democracy</title>
+      <link>/tags/direct-democracy/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/data/</guid>
+      <guid>/tags/direct-democracy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic Panels</title>
-      <link>/tags/dynamic-panels/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Economic Development</title>
+      <link>/tags/economic-development/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       
-      <guid>/tags/dynamic-panels/</guid>
+      <guid>/tags/economic-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Econometrics</title>
-      <link>/tags/econometrics/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Electoral Systems Choice</title>
+      <link>/tags/electoral-systems-choice/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       
-      <guid>/tags/econometrics/</guid>
+      <guid>/tags/electoral-systems-choice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>History</title>
-      <link>/tags/history/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Federalism</title>
+      <link>/tags/federalism/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/history/</guid>
+      <guid>/tags/federalism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Inequality</title>
+      <link>/tags/inequality/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/tags/inequality/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Swiss Politics</title>
-      <link>/tags/swiss-politics/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Party Formation</title>
+      <link>/tags/party-formation/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       
-      <guid>/tags/swiss-politics/</guid>
+      <guid>/tags/party-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race to the Bottom</title>
+      <link>/tags/race-to-the-bottom/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/race-to-the-bottom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radical Parties</title>
+      <link>/tags/radical-parties/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>/tags/radical-parties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Formation</title>
+      <link>/tags/state-formation/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>/tags/state-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-Formation</title>
+      <link>/tags/state-formation/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>/tags/state-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax-Competition</title>
+      <link>/tags/tax-competition/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>/tags/tax-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welfare State</title>
+      <link>/tags/welfare-state/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/welfare-state/</guid>
       <description></description>
     </item>
     

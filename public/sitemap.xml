@@ -1,143 +1,411 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/post/2018/04/17/talks-2018/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/jop_2019/</loc>
+      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/cv/</loc>
-    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/joesp_2018/</loc>
+      <lastmod>2018-06-30T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/new-publ_may_2018/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/teaching/</loc>
-    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/new-publ_july_2018/</loc>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/post/2017/12/07/hsg-international-fellowship/</loc>
-    <lastmod>2017-12-07T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/agri/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/cath_mig/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/research/</loc>
-    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/cath_soc/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/dir_tax/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/post/2017/09/21/swiss-cantonal-governments-1848-2017/</loc>
-    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/dis_pr/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/post/2017/09/13/estimation-of-long-run-effects-in-r/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/gov_can/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/maj_pro/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/adl/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/pr_belgium/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/soc_threat/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/comparative-politics/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/wsr_2017/</loc>
+      <lastmod>2017-04-01T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/categories/comparative-politics/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/dynamic-panels/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/working_papers/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/econometrics/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/compasss_2014/</loc>
+      <lastmod>2014-06-30T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/history/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/elect/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/socpol/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/globdev/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/tax/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/swiss-politics/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/coalition-governments/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/colonialism/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/direct-democracy/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/economic-development/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/electoral-systems-choice/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/federalism/</loc>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/inequality/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/party-formation/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/race-to-the-bottom/</loc>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/radical-parties/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/state-formation/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/state-formation/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/tax-competition/</loc>
+      <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/welfare-state/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
