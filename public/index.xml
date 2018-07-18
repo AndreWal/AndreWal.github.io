@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>André Walter on André Walter</title>
+    <title>Political Science, History, and Statistics on André Walter</title>
     <link>/</link>
-    <description>Recent content in André Walter on André Walter</description>
+    <description>Recent content in Political Science, History, and Statistics on André Walter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -164,21 +164,148 @@ the period 1930-1975.&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>/publication/wsr_2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/wsr_2017/</guid>
-      <description></description>
+      <guid>/cv/</guid>
+      <description>&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Academic Employment&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;2018– Postdoctoral Researcher, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.&lt;/li&gt;
+&lt;li&gt;2012–2018 Research Assistant, Chair for Comparative Political Economy and Public Policy, Department of Political Science, University of St. Gallen, Switzerland.&lt;/li&gt;
+&lt;li&gt;2011–2012 Teaching Assistant, Gender Studies, University of Zurich, Switzerland.&lt;/li&gt;
+&lt;li&gt;2009–2010 Student and Teaching Assistant, Institute of Sociology, University of Jena, Germany.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Education&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;2018 PhD, Political Science, University of St. Gallen, Switzerland&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;2012 MA, Sociology, Social-/Cultural Anthropology, and Gender Studies, University of Zurich, Switzerland&lt;/li&gt;
+&lt;li&gt;2010 BA, Sociology and Political Science, University of Jena, Germany&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Additional Training&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;2017&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine Learning with R, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Brett Lantz&lt;/li&gt;
+&lt;li&gt;Bayesian Data Analysis, Summer School in Empirical Research Methods,St. Gallen, Switzerland; Instructor: Michael Kalish&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2016&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GIS for Armed Conflict Research, St. Gallen, Switzerland; Instructor: Jan Ketil Rod&lt;/li&gt;
+&lt;li&gt;Spatial Analysis for the Social Sciences, St. Gallen, Switzerland; Instructor: Michael D. Ward&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2015&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Categorical Data Analysis, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Shawna Smith&lt;/li&gt;
+&lt;li&gt;Maximum Likelihood Methods, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Christopher Zorn&lt;/li&gt;
+&lt;li&gt;Computational Statistics, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Francesco Audrino.&lt;/li&gt;
+&lt;li&gt;Panel Data Analysis, ECPR Winter School in Methods and Techniques, Bamberg, Germany; Instructor: Christian Assmann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2014&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regression II+III, Summer School in Empirical Research Methods, St. Gallen, Switzerland; Instructor: Brain M. Pollins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2013&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Process Tracing Methodology I+II, ECPR Summer School in Methods and Techniques, Ljubljana, Slovenia; Instructor: Derek Beach, Rasmus Brun Pedersen&lt;/li&gt;
+&lt;li&gt;Case Study Research Methods, University of St. Gallen, Switzerland; Instructor: Andrew Bennett&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Software&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Reports&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LaTeX, Word, Power Point, Excel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Statistics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R, Stata (SPSS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GIS Data&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;QGIS, ARCGIS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/publication/compasss_2014/</link>
-      <pubDate>Mon, 30 Jun 2014 00:00:00 +0200</pubDate>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/compasss_2014/</guid>
-      <description></description>
+      <guid>/publications/</guid>
+      <description>&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Published (*peer-reviewed)&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;(*)A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State Expansion. The Journal of Politics, forthcoming&lt;/li&gt;
+&lt;li&gt;(*)Taking the Initiative! Direct Democracy, Coalition Governments, and Welfare State Expansion, Journal of European Social Policy., forthcoming&lt;/li&gt;
+&lt;li&gt;(*)&lt;a href=&#34;http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/683/937&#34;&gt;Measuring the Impacts of Colonialism: A New Data Set for the Countries of Africa and Asia. Journal of World-Systems Research, 23(1), 2017, 156-190 (with Patrick Ziltener and Daniel Kuenzler)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Other Publications (*peer-reviewed)&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;(*)&lt;a href=&#34;https://www.degruyter.com/view/j/sjs.2016.42.issue-1/sjs-2016-0008/sjs-2016-0008.xml&#34;&gt;Europäische Integration auf Unternehmensebene: Die Schweizer Beteiligung an Europäischen Betriebsräten (EBR). Swiss Journal of Sociology, 42(1), 2016, p. 159–174 (with Patrick Ziltener and Heinz Gabathuler)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(*)&lt;a href=&#34;http://www.compasss.org/wpseries/EmmeneggerSchraffWalter2014.pdf&#34;&gt;QCA, the Truth Table Analysis and Large-N Survey Data: The Benefits of Calibration and the Importance of Robustness Tests.  2014-79. (with Patrick Emmenegger and Dominik Schraff)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Unter Review&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;A Disproportional Threat. The Adoption of Proportional Representation in Switzerland (with Patrick Emmenegger), R&amp;amp;R&lt;/li&gt;
+&lt;li&gt;Swiss Cantonal Governments 1848-2017. A new Dataset. (with Patrick Emmenegger)&lt;/li&gt;
+&lt;li&gt;Majority Protection: The Origins of Distorted Proportional Representation (with Patrick Emmenegger)&lt;/li&gt;
+&lt;li&gt;The Social Origins of Christian Democracy. Rural-Urban Migration and the Rise of the Catholic Workers’ Movement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Working Papers&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;A Socialist Threat? Radical Party Entry and the Formation of Electoral Alliances in Majoritarian Systems&lt;/li&gt;
+&lt;li&gt;Interest Mediation or Front Line? Socialist Electoral Mobilization and the Growth of the Catholic Workers’ Movement&lt;/li&gt;
+&lt;li&gt;Intra-Elite Competition and the Origins of Direct Taxation (with Patrick Emmenegger and Lucas Leemann)&lt;/li&gt;
+&lt;li&gt;Beyond the Neolithic Revolution. Endogenous Political Development, External Domination and the Formation of Pre-Colonial and Colonial States.&lt;/li&gt;
+&lt;li&gt;When Dominant Parties Adopt PR. The Mysterious Case of Belgium (with Patrick Emmenegger).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;h2&gt;
+&lt;span&gt;Work in Progress&lt;/span&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Initiating Welfare Competition. How the Freedom of Movement for the Poor was introduced (with Cecilia Bruzelius)&lt;/li&gt;
+&lt;li&gt;The Adoption of Personal Income Taxation in the Swiss Cantons [Working Title] (with Patrick Emmenegger and Lucas Leemann)&lt;/li&gt;
+&lt;li&gt;How Socialism Changed Politics. Large-Scale Evidence from District Competition and Parliamentary Debates in Imperial Germany using Quantitative Text Analysis&lt;/li&gt;
+&lt;li&gt;Electoral System Change, Political Competition and Targeted Elite Mobilization&lt;/li&gt;
+&lt;li&gt;Persisting Inequality. The Structure of the World Income Distribution 1975-2016 (with Patrick Ziltener)&lt;/li&gt;
+&lt;li&gt;The Abolition of Feudal Taxation across Europe [Working Title]&lt;/li&gt;
+&lt;li&gt;Wasted Votes? Electoral Competition, Vote Defection, and Strategic Third Party Entry in Single Member Districts&lt;/li&gt;
+&lt;li&gt;The Black Coalition. Why the German Reich Adopted Social Insurance&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
