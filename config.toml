@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "André Walter"
+title = "Andre Walter"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "André Walter"
+  name = "Andre Walter"
   role = "Postdoctoral Researcher focusing on Comparative Politics and Comparative Political Economy"
 
   # Organizations/Affiliations.
