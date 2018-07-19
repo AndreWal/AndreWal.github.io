@@ -22,7 +22,7 @@ I teach the following courses in the International Affairs program at the Univer
 
 2018 
 
-- The Politics of Electoral Systems: Political Conflict and Representation, Seminar for MA Students, University of St. Gallen (Spring Term)
+- The Politics of Electoral Systems: Political Conflict and Representation, Seminar for MA Students, University of St. Gallen (Spring Term); {{% staticref "files/Syllabus_Electoral_Systems.pdf" %}}Syllabus{{% /staticref %}}
 
 2017 
 
