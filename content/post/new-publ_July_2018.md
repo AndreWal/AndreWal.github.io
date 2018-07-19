@@ -19,7 +19,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-preview = true
+preview = false
 
 +++
 Another article, "A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State

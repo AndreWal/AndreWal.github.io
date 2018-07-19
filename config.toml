@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "AndrÃ© Walter"
+  name = "André Walter"
   role = "Postdoctoral Researcher focusing on Comparative Politics and Comparative Political Economy"
 
   # Organizations/Affiliations.
@@ -212,7 +212,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #

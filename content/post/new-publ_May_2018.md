@@ -19,7 +19,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-preview = true
+preview = false
 
 +++
 My article, "Taking the Initiative. Direct Democracy, Coalition Governments, and Welfare State
