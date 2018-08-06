@@ -22,7 +22,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "Master in Sociology"
+  course = "MA in Sociology"
   institution = "University of Zurich"
   year = 2012
 
