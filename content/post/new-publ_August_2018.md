@@ -1,5 +1,5 @@
 +++
-title = "New Publication Forthcoming in JoP"
+title = "New Publication Forthcoming in SPSR"
 date = 2018-08-15
 draft = false
 
@@ -8,7 +8,7 @@ authors = ["Andre Walter"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Switzerland","Federalism","Race to the Bottom"]
+tags = ["Switzerland","Federalism","Data"]
 categories = []
 
 # Featured image
