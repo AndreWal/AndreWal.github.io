@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>/post/new-publ_august_2018/</loc>
+      <lastmod>2018-08-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/jop_2019/</loc>
-      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+      <lastmod>2018-08-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/spsr_2018/</loc>
+      <lastmod>2018-07-30T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -78,15 +96,6 @@
     <url>
     
       <loc>/working_papers/dis_pr/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/working_papers/gov_can/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -267,7 +276,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+      <lastmod>2018-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -315,6 +324,16 @@
     
     <url>
     
+      <loc>/tags/data/</loc>
+      <lastmod>2018-08-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/direct-democracy/</loc>
       <lastmod>2018-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -346,7 +365,7 @@
     <url>
     
       <loc>/tags/federalism/</loc>
-      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-08-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -386,7 +405,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-07-10T00:00:00+02:00</lastmod>
+      <lastmod>2018-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -427,6 +446,16 @@
     
       <loc>/tags/state-formation/</loc>
       <lastmod>1970-01-01T01:33:38+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/switzerland/</loc>
+      <lastmod>2018-08-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

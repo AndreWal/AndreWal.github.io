@@ -23,7 +23,7 @@ preview = false
 
 +++
 Another article, "A Race to the Middle. The Politics of Interstate Cost Distribution and Welfare State
-Expansion", has been accepted at the Journal of Politics. Below is the abstract:
+Expansion", has been accepted at the Journal of Politics. Below is the abstract:<!--more-->
 
 Previous research on welfare state development in federal states has
 claimed that interstate competition induces a race to the bottom with regard

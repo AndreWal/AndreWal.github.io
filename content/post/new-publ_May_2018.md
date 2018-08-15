@@ -23,7 +23,7 @@ preview = false
 
 +++
 My article, "Taking the Initiative. Direct Democracy, Coalition Governments, and Welfare State
-Expansion", has been accepted at the Journal of Eruopean Social Policy. Below is the abstract:
+Expansion", has been accepted at the Journal of European Social Policy. Below is the abstract:<!--more-->
 
 Direct democratic rights are increasingly adopted around the world. However,
 what are the consequences of the introduction of initiative and referendum rights
