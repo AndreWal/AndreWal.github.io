@@ -20,10 +20,10 @@ categories = []
 image = ""
 caption = ""
 preview = false
-
+summary = "One of the articles I have written with Patrick Emmenegger, "The Partisan Composition of Cantonal Governments in Switzerland, 1848-2017. A new Dataset", has been accepted at the Swiss Political Science Review. Below is the abstract:"
 +++
 One of the articles I have written with Patrick Emmenegger, "The Partisan Composition of Cantonal Governments in Switzerland, 1848-2017. A new Dataset", has been accepted at the Swiss Political Science Review. Below is the abstract:
-<!--more-->
+
 Scholars increasingly use Swiss cantons to examine the effect of
 democratic processes and institutions on political, economic and
 social outcomes. However, the availability of political indicators at
