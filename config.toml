@@ -261,6 +261,11 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "//ch.linkedin.com/in/andr%C3%A9-walter-b01620119"
+    
+    [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/AndrWalter15"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
