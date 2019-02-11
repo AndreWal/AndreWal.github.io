@@ -1,5 +1,5 @@
 +++
-title = "Federalism, Direct Democracy and Welfare State Expansion"
+title = "Federalism, Direct Democracy, and Welfare State Expansion"
 date = 2018
 draft = false
 
