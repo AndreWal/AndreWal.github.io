@@ -1,5 +1,5 @@
 +++
-title = "New Publication Forthcoming in Electoral Studies"
+title = "New Publication Forthcoming in EPSR"
 date = 2019-10-10
 draft = false
 

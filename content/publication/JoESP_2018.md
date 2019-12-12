@@ -43,7 +43,7 @@ projects = ["socpol"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/0958928718805631"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
