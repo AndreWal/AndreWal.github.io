@@ -16,6 +16,12 @@ weight = 60
 +++
 I teach the following courses in the International Affairs program at the University of St. Gallen: 
 
+2020
+
+- Introduction to Quantitative Methods, Lecture for BA Students, University of St. Gallen (Spring Term)
+
+- Schweizerische Demokratie, 1848-1971 - Irrungen und Verwirrungen einer jungen Demokratie, Seminar for BA Students, University of St. Gallen (Spring Term)
+
 2019
 
 - Introduction to Quantitative Methods, Lecture for BA Students, University of St. Gallen (Spring Term)
@@ -41,7 +47,7 @@ I teach the following courses in the International Affairs program at the Univer
 - Vertiefung Theorien der Gender Studies (Prof. Bettina Dennerlein; Spring Term 2012)
 - Theorien der Gender Studies: Eine Einführung (Prof. Bettina Dennerlein; Autumn Term 2011)
 
-2009–2010 (Teaching Assistant at the University of Jena, Germany)
+2009--2010 (Teaching Assistant at the University of Jena, Germany)
 
-- Schlüsselbegriffe der Arbeits-, Industrie- und Wirtschaftssoziologie (Prof. Michael Behr; Winter Term 2009-2010)
-- Einführung in die Makrosoziologie (Prof. Stephan Lessenich; Summer Term 2009)
+- Schluesselbegriffe der Arbeits-, Industrie- und Wirtschaftssoziologie (Prof. Michael Behr; Winter Term 2009-2010)
+- Einfuehrung in die Makrosoziologie (Prof. Stephan Lessenich; Summer Term 2009)
