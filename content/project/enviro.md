@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["State Formation","Colonialism","Inequality","Economic Development"]
+tags = ["Climate Change","Parties","Public Opinion"]
 
 # Project summary to display on homepage.
 summary = ""
