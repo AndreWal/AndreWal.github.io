@@ -1,11 +1,11 @@
 +++
-title = "Global Political Development in Long-Term Perspective"
+title = "Geography and the Formation and Design of States and Markets"
 date = 2018
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["State Formation","Colonialism","Inequality","Economic Development"]
+tags = ["Geography","State Formation","Markets"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -29,4 +29,4 @@ image = ""
 caption = ""
 
 +++
-This "project" is more of a collection of past and ongoing work with focus on the political long-term development in global perspective. For instance, I have compiled a new, comprehensive data set on the impact of colonialism in Africa and Asia with Patrick Ziltener and Daniel Kuenzler. Currently, I do research on the relationship of the Neolithic Transition and state formation as well as the onset of colonialism.
+In the project, I integrate GIS data into research in political science to explore how geography has shape the formation of states, power relations within those states as well as market integration. In particular, I investigate how geographical properties have shaped the formation of states, the adoption and design of political institutions and administrative units, and attitudes towards market integration. 

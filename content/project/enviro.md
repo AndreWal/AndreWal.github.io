@@ -29,4 +29,4 @@ image = ""
 caption = ""
 
 +++
-My newest project. I want to explore how exposure to climate change affects public support for environmental policies and how parties respond to it by adjusting their platforms. More information coming soon.  
+In the project, I try to broaden our understanding of how climate change affects electoral support for Green Parties and public support for environmental policies. Using observational data and natural experiments, I want to explore the following questions: Does global warming increase the support of Green Parties? Does the election of green MPs increase public support for environmental policies? How do political institutions moderate the effect of global warming on parties' positions on environmental policies? Do environmental policies create feedback effects that increase public support for other environmental policies? 
