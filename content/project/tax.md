@@ -1,5 +1,5 @@
 +++
-title = "The Evolution of Taxation and Tax Competition"
+title = "Political Institutions, Conflict, and Redistribution"
 date = 2018
 draft = false
 
