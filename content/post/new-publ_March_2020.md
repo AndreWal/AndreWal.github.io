@@ -1,6 +1,6 @@
 +++
 title = "New Publication Forthcoming in SER"
-date = 2019-10-10
+date = 2020-02-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
