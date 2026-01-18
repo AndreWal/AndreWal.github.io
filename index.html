@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Research Portfolio | André Walter</title>
+    <meta
+      name="description"
+      content="Researcher, data scientist, and data engineer. Portfolio, publications, and teaching."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient-grid" aria-hidden="true"></div>
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-mark">∑</span>
+        <div>
+          <p class="brand-label">André Walter</p>
+          <p class="brand-subtitle">Data Scientist · Data Engineer</p>
+        </div>
+      </div>
+      <nav class="site-nav">
+        <a href="#work">Portfolio</a>
+        <a href="#publications">Publications</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a class="nav-cta" href="./assets/CV_Walter.pdf" target="_blank" rel="noopener" download>
+        Download CV
+      </a>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-photo-wrap">
+          <img
+            class="hero-photo"
+            src="./assets/84862_sw_less_mb.jpg"
+            alt="Portrait of André Walter"
+          />
+        </div>
+        <div class="hero-content">
+          <p class="eyebrow">Computational Research & Applied AI</p>
+          <h1>
+            I design data systems that
+            <span>turn complex research into actionable insight.</span>
+          </h1>
+          <p class="hero-body">
+            I am a quantitative researcher and data scientist with advanced expertise in statistics, machine learning, and causal inference, working primarily in R and Python across time-series, panel, spatial, and experimental designs. I build reproducible, end-to-end data pipelines and data infrastructure using Docker, Airflow, PostgreSQL, and automated workflows, with strong experience in data engineering, geospatial analytics, and spatial modeling. I also develop and evaluate LLM-enabled data applications for tasks such as data generation, classification, and ranking, combining modern AI tools with rigorous empirical validation.
+          </p>
+          <div class="hero-actions">
+            <a class="primary-btn" href="#work">Explore work</a>
+            <a class="ghost-btn" href="#experience">Professional Experience & Contact</a>
+          </div>
+          <div class="hero-metrics">
+            <div>
+              <p class="metric-value">10+</p>
+              <p class="metric-label">Years of Experience in Statistics, ML, and Data Engineering</p>
+            </div>
+            <div>
+              <p class="metric-value">23</p>
+              <p class="metric-label">Peer-reviewed papers</p>
+            </div>
+            <div>
+              <p class="metric-value">8</p>
+              <p class="metric-label">Courses & workshops taught</p>
+            </div>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="panel-card">
+            <p class="panel-title">Current Focus</p>
+            <ul>
+                <li>LLM-based solutions for data generation, classification, and decision support</li>
+                <li>Scalable data pipelines for analytics, visualization, and insight delivery</li>
+                <li>Advanced geospatial and time-series modeling</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="work" class="section">
+        <div class="section-header">
+          <h2>Portfolio</h2>
+          <p>Some of current projects.</p>
+        </div>
+        <div class="card-grid">
+          <article class="info-card">
+            <p class="card-eyebrow">Spatial Machine learning</p>
+            <h3>Machine Learning-Driven Population Mapping and Interpolation</h3>
+            <p>
+              This project develops a reproducible pipeline for harmonizing, interpolating, and modeling subnational population data across space and time using spatial machine learning. It integrates heterogeneous census and administrative sources to generate consistent, high-resolution population surfaces suitable for demographic, political, and spatial analysis.
+            </p>
+            <div class="card-footer">
+              <div class="tag-row">
+                <span>Data Engineering</span>
+                <span>Spatial ML</span>
+                <span>Demography</span>
+              </div>
+              <a
+                class="repo-link"
+                href="https://github.com/AndreWal/SpatialML_PopData"
+                target="_blank"
+                rel="noopener"
+              >
+                View repo
+              </a>
+            </div>
+          </article>
+          <article class="info-card">
+            <p class="card-eyebrow">Prediction & AI</p>
+            <h3>Predicting Survey Response Behavior with Small Language Models</h3>
+            <p>
+              This project systematically compares the classification performance of multiple small language models in predicting individual survey response behavior. Using voting choices in direct democratic referenda as a benchmark, it evaluates how well SLMs can infer political decisions from survey-style inputs (e.g. age, education, political leanings) and contextual information, with a focus on predictive accuracy and model differences.
+            </p>
+            <div class="card-footer">
+              <div class="tag-row">
+                <span>LLMs</span>
+                <span>Survey Data</span>
+                <span>Direct Democracy</span>
+              </div>
+              <a
+                class="repo-link"
+                href="https://github.com/AndreWal/SLM_survey_predictions"
+                target="_blank"
+                rel="noopener"
+              >
+                View repo
+              </a>
+            </div>
+          </article>
+          <article class="info-card">
+            <p class="card-eyebrow">Data Collection</p>
+            <h3>Swiss Votes Municipality Dataset (1866–2023)</h3>
+            <p>
+              This project delivers a finalized municipality-level dataset of Swiss popular vote outcomes covering 1866–2023. It includes boundary-mapped referendum results for 1866–1999 and 1866–2023, plus a complete municipality–vote combinations table to support longitudinal analyses of voting behavior and regional variation.
+            </p>
+            <div class="card-footer">
+              <div class="tag-row">
+                <span>Data Sets</span>
+                <span>Archives</span>
+                <span>Direct Democracy</span>
+              </div>
+              <a
+                class="repo-link"
+                href="https://github.com/AndreWal/swiss_votes"
+                target="_blank"
+                rel="noopener"
+              >
+                View repo
+              </a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="publications" class="section alt-section">
+        <div class="section-header">
+          <h2>Publications</h2>
+          <p>A selection of my peer-reviewed work.</p>
+        </div>
+        <div class="publication-list">
+          <article>
+            <p class="pub-title">The Party Politics of Electoral System Choice. Stacking the Deck in First-Wave Democracies</p>
+            <p class="pub-meta">Oxford University Press, 2026 · Co-Author</p>
+            <p class="pub-summary">
+              Our book explores how reforms to electoral systems are linked to strategic manipulation, including malapportionment and gerrymandering.
+            </p>
+          </article>
+          <article>
+            <p class="pub-title">Vox Populi: Popular Support for the Popular Initiative</p>
+            <p class="pub-meta">American Political Science Review, 2025 · Co-Author</p>
+            <p class="pub-summary">
+              Using real-world data, we show that misrepresentation in parliament is linked to support for direct-democratic instruments.
+            </p>
+          </article>
+          <article>
+            <p class="pub-title">Municipality-Level Outcomes of Direct-Democratic Votes in Switzerland, 1866–2023</p>
+            <p class="pub-meta">Swiss Political Science Review, 2025 · Co-Author</p>
+            <p class="pub-summary">
+              Accompanying publication to the first dataset that provides municipality-level
+              results for all nationwide popular votes in Switzerland from 1866 to 2023.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="teaching" class="section">
+        <div class="section-header">
+          <h2>Teaching</h2>
+          <p>Lectures, courses, and workshops.</p>
+        </div>
+        <div class="teaching-grid">
+          <article class="teaching-card">
+            <h3>Statistical Methods</h3>
+            <p>
+              An entry-level course covering research design, sampling, descriptive statistics, statistical inference, and regression analysis. It aims to equip participants with the skills to understand, apply, and critically evaluate statistical research using R or Python.
+            </p>
+            <div class="tag-row">
+              <span>Statistics</span>
+              <span>R/Python</span>
+              <span>Research Design</span>
+            </div>
+          </article>
+          <article class="teaching-card">
+            <h3>Doing Quantitative Analysis in R/Python</h3>
+            <p>
+              The course guides students through the full process of doing quantitative research by replicating a published study, from data collection and statistical modeling to interpretation and presentation of results. Alongside the project work, it provides hands-on training in R and advanced methods such as interaction models, fixed effects, and multilevel modeling
+            </p>
+            <div class="tag-row">
+              <span>Advanced Statistics</span>
+              <span>R/Python</span>
+              <span>Reproducibility</span>
+            </div>
+          </article>
+          <article class="teaching-card">
+            <h3>Workshops in Statistics and Statistical Software</h3>
+            <p>
+I offer one- and two-day workshops on regression analysis, causal inference, machine learning, and data visualization with R and Python, designed for academic and professional audiences and balancing theoretical rigor with practical implementation.
+            </p>
+             <div class="tag-row">
+              <span>Statistics</span>
+              <span>R/Python</span>
+              <span>Machine Learning</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="experience" class="section experience">
+        <div class="section-header">
+          <p class="section-kicker">Career Journey</p>
+          <h2>Professional Experience</h2>
+          <p>Leadership and technical roles across research, data science, and engineering.</p>
+        </div>
+        <div class="timeline">
+          <article class="timeline-item">
+            <p class="timeline-date">Oct 2021 — Present</p>
+            <h3>Lecturer</h3>
+            <p class="timeline-company">University of St. Gallen · St. Gallen, Switzerland</p>
+            <ul class="timeline-desc">
+              <li>Teaching courses in statistics.</li>
+            </ul>
+          </article>
+          <article class="timeline-item">
+            <p class="timeline-date">Oct 2021 — Sep 2025</p>
+            <h3>Research Group Leader</h3>
+            <p class="timeline-company">University of Zurich · Zurich, Switzerland</p>
+            <ul class="timeline-desc">
+              <li>Led a three-person team collecting, processing, and merging large-scale data.</li>
+              <li>Statistical analyses (RDDs, IVs, panel and spatial models).</li>
+              <li>Developed models to predict individual vote choices, benchmarking multiple supervised machine-learning algorithms against LLMs.</li>
+              <li>Explored LLMs use cases for data generation, classification, and ranking.</li>
+            </ul>
+          </article>
+          <article class="timeline-item">
+            <p class="timeline-date">Mar 2018 — Sep 2021</p>
+            <h3>Postdoctoral Researcher</h3>
+            <p class="timeline-company">University of St. Gallen · St. Gallen, Switzerland</p>
+            <ul class="timeline-desc">
+              <li>Led a five-person team to collect municipal-level Swiss popular-vote data 1866-2020.</li>
+              <li>Implemented regression-discontinuity designs, non-linear panel regressions, and spatial models.</li>
+              <li>Created GIS data and georeferenced existing datasets.</li>
+            </ul>
+          </article>
+           <article class="timeline-item">
+            <p class="timeline-date">Dec 2019 — Jun 2021</p>
+            <h3>Postdoctoral Researcher</h3>
+            <p class="timeline-company">University of Lausanne · Lausanne, Switzerland</p>
+            <ul class="timeline-desc">
+              <li>Statistical analysis of Brazil and Kenya survey data using linear and non-linear estimators.</li>
+              <li>Preparation of descriptive reports for local NGO partners.</li>
+            </ul>
+          </article>
+           <article class="timeline-item">
+            <p class="timeline-date">Nov 2012 — Feb 2018</p>
+            <h3>PhD Student/Research Assistant</h3>
+            <p class="timeline-company">University of St. Gallen · St. Gallen, Switzerland</p>
+            <ul class="timeline-desc">
+              <li>Dissertation on Swiss cantonal social policy</li>
+              <li>Compiled long-term demographic, economic, and political time series and used survival analysis and autoregressive panel methods for data analysis.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact">
+        <div class="section-header">
+          <h2>Let's Get in Touch</h2>
+          <p>Open to consulting and training in statistics and machine learning (fundamentals, advanced) and software (R, Python).</p>
+        </div>
+        <div class="contact-card">
+          <div>
+            <p class="contact-title">Contact</p>
+            <p>
+              Email: andre.walter@unisg.ch<br />
+              Office: Remote · Available worldwide
+            </p>
+          </div>
+         </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© 2026 André Walter.</p>
+    </footer>
+  </body>
+</html>
